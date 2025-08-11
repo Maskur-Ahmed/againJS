@@ -7,3 +7,10 @@ var age = 24;
 
 //! data types :
 //data types in js is the type of data where we can use this 
+
+//! js arethmatical operation:
+//* aditional:
+var orrangePrice = 20;
+var applePrice = 30;
+var total = (orrangePrice + applePrice);
+
