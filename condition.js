@@ -19,3 +19,9 @@ var total = (orrangePrice + applePrice);
 var mangoPrice = 100;
 var currentBlnc = 200;
 var totalB = (currentBlnc - mangoPrice);
+
+//* multiplication :
+
+var oneMan = 10;
+var tenMan = 100;
+var totalMan = (oneMan * tenMan);
