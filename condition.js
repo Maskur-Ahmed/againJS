@@ -47,3 +47,10 @@ var cVrt = parseFloat(aName);
 
 console.log(cVrt);
 console.log(typeof(cVrt));
+
+//to fixed :if i want to take only 2 numbers after the floationg point then:
+
+var changed = cVrt.toFixed(2);
+var toNum = parseFloat(changed);
+console.log(toNum);
+console.log(typeof(toNum));
