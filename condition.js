@@ -26,9 +26,16 @@ var oneMan = 10;
 var tenMan = 100;
 var totalMan = (oneMan * tenMan);
 
-//* divicion :
+//* division :
 
 var totlaAmm = 100;
 var totalMan = 4;
 
 var perMan = (4 / 100);
+
+// string to number:
+//if i want to make a stirng to Intnumber then i have to use:
+var accountNum = '20043';
+var convert = parseInt(accountNum);
+console.log(convert);
+console.log( typeof(convert));
