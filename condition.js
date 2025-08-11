@@ -4,3 +4,6 @@
 // we declair variable using the keywords: var let const ex:
 var name = "maskur";
 var age = 24;
+
+//! data types :
+//data types in js is the type of data where we can use this 
