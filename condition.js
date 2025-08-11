@@ -25,3 +25,10 @@ var totalB = (currentBlnc - mangoPrice);
 var oneMan = 10;
 var tenMan = 100;
 var totalMan = (oneMan * tenMan);
+
+//* divicion :
+
+var totlaAmm = 100;
+var totalMan = 4;
+
+var perMan = (4 / 100);
