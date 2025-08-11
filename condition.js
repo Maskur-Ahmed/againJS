@@ -14,3 +14,8 @@ var orrangePrice = 20;
 var applePrice = 30;
 var total = (orrangePrice + applePrice);
 
+//* substraction :
+
+var mangoPrice = 100;
+var currentBlnc = 200;
+var totalB = (currentBlnc - mangoPrice);
