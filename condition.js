@@ -39,3 +39,11 @@ var accountNum = '20043';
 var convert = parseInt(accountNum);
 console.log(convert);
 console.log( typeof(convert));
+
+// if i want to convert a number with flotiong point then i have to use :
+
+var aName = "937303.9839";
+var cVrt = parseFloat(aName);
+
+console.log(cVrt);
+console.log(typeof(cVrt));
