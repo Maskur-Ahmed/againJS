@@ -54,3 +54,8 @@ var changed = cVrt.toFixed(2);
 var toNum = parseFloat(changed);
 console.log(toNum);
 console.log(typeof(toNum));
+
+//lessthan = <
+// gaterthan = > 
+//lessthanequal ==<
+// gaterthanequal ==>
