@@ -10,4 +10,3 @@ arr.push("ahmed");
 
 //*ToDo:loop ,for loop,for each.
 
-//
