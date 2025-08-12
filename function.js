@@ -8,4 +8,6 @@ arr.push("ahmed");
 
 //:step 1:get user input value from dom element
 
-//ToDo:loop ,for loop,for each.
+//*ToDo:loop ,for loop,for each.
+
+//
