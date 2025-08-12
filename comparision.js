@@ -27,3 +27,4 @@ if(balacnce > 50){
 }else{
     console.log("tmi parba na");
 }
+
