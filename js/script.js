@@ -13,3 +13,4 @@ console.log(pro);
 //2.alert;
 //3.confirm;
 //4.console;
+//5.variable;
