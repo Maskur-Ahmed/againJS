@@ -9,3 +9,4 @@ let pro = prompt('what is your name ?');
 
 console.log(pro);
 //tasks:
+//1.prompt;
