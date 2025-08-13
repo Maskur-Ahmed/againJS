@@ -12,3 +12,4 @@ console.log(pro);
 //1.prompt;
 //2.alert;
 //3.confirm;
+//4.console;
