@@ -14,3 +14,4 @@ console.log(pro);
 //3.confirm;
 //4.console;
 //5.variable;
+//6.data types;
