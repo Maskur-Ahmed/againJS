@@ -11,3 +11,4 @@ console.log(pro);
 //tasks:
 //1.prompt;
 //2.alert;
+//3.confirm;
