@@ -15,3 +15,4 @@ console.log(pro);
 //4.console;
 //5.variable;
 //6.data types;
+//7.comparision
