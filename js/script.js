@@ -17,3 +17,4 @@ console.log(pro);
 //6.data types;
 //7.comparision
 //8.condition;
+//*all added ;
