@@ -1,20 +1,9 @@
-let Roll = '01';
-let typeChange = Number(Roll);
-console.log(typeChange);
-console.log(typeof typeChange);
+//! Arethmatic operator:
 
-let realRoll = "30";
-let cType = Boolean(realRoll);
-console.log(cType);
-console.log(typeof cType);
+let mPrice = 40;
+let aPrice = 60;
+aPrice --;
+mPrice --;
+let total = (mPrice + aPrice);
 
-
-let realR = true;
-let cT = Number(realR);
-console.log(cT);
-console.log(typeof cT);
-
-
-
-
-
+console.log(total);
