@@ -1,0 +1,30 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+button1{
+    color: red;
+}
+
+button2{
+    color: green;
+}
+
+button3{
+    color: blue;
+}
+
+button4{
+    color: yellow;
+}
+button{
+    padding: 10px;
+    margin-top: 20px;
+}
