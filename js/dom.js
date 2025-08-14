@@ -12,4 +12,5 @@ btnOne.addEventListener('click',()=>{
 btntwo.addEventListener('click',()=>{
     h2.innerText = 'modhu modhu modhu';
     h2.style = "color:red"
+    
 })
