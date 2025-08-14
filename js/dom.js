@@ -28,7 +28,7 @@ btn1.addEventListener('click',()=>{
     div.style = 'background-color:red';
     div.innerText = 'mui lal rong';
 })
-
+ 
 btn2.addEventListener('click',()=>{
     div.style = 'background-color:green';
     div.innerText = 'mui sobuj rong';
