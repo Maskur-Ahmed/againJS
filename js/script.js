@@ -1,15 +1,14 @@
-//! tasks:
- let admin ;
- let name = 'Jhon';
+//Number:
+let roll = 24 ; 
+let N = 937.933;
 
- admin = name;
+let userName = "Maskur";
+let lastName = 'Ahmed';
+let someData = `hello the answer is ${1+2}`;
+console.log(someData);
 
- alert(admin);
+let isGreter = 1 < 5;
+console.log(isGreter);
 
- let ourPlant = "Mango";
- let currentVisitors = 300;
-
- const BIRTHDAY = '18.04.1982';
-
-const age = someCode(BIRTHDAY);
-console.log(age);
+let age = null;
+let Age;
