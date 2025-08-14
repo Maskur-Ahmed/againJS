@@ -1,14 +1,20 @@
-//Number:
-let roll = 24 ; 
-let N = 937.933;
+let Roll = '01';
+let typeChange = Number(Roll);
+console.log(typeChange);
+console.log(typeof typeChange);
 
-let userName = "Maskur";
-let lastName = 'Ahmed';
-let someData = `hello the answer is ${1+2}`;
-console.log(someData);
+let realRoll = "30";
+let cType = Boolean(realRoll);
+console.log(cType);
+console.log(typeof cType);
 
-let isGreter = 1 < 5;
-console.log(isGreter);
 
-let age = null;
-let Age;
+let realR = true;
+let cT = Number(realR);
+console.log(cT);
+console.log(typeof cT);
+
+
+
+
+
