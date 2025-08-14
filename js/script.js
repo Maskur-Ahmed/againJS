@@ -1,23 +1,15 @@
-let massage = 'hello';
-massage = 'hi';
-massage = 'world';
+//! tasks:
+ let admin ;
+ let name = 'Jhon';
 
-let age = 22;
-age = 21;
-age = 20;
+ admin = name;
 
-let user = 'maskur';
-user = 'ahmed';
-user = 'Maskur';
+ alert(admin);
 
-let userName = "Maskur";
-userName = 'Ahmed';
-let lastName = userName;
+ let ourPlant = "Mango";
+ let currentVisitors = 300;
 
-//*const:
-const COLOR_RED = "#F00";
-const COLOR_GREEN = "#0F0";
-const COLOR_BLUE = "#00F";
-const COLOR_ORANGE = "#FF7F00";
-let color = COLOR_GREEN
-alert(color);
+ const BIRTHDAY = '18.04.1982';
+
+const age = someCode(BIRTHDAY);
+console.log(age);
