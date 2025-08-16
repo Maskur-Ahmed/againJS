@@ -17,8 +17,11 @@ blue.addEventListener('click',()=>{
     dekano.style = 'color:blue'
 });
 
-red.addEventListener('click',()=>{
-    dekano.style = 'color:red'
+green.addEventListener('click',()=>{
+    dekano.style = 'color:green'
+});
+green.addEventListener('click',()=>{
+    dekano.style = 'color:green'
 });
 
 
