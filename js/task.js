@@ -10,20 +10,6 @@ let green = document.querySelector('btn3');
 let purple = document.querySelector('btn4');
 
 //------------------color btn----------------------;
-red.addEventListener('click',()=>{
-    dekano.style = 'color:red'
-});
-blue.addEventListener('click',()=>{
-    dekano.style = 'color:blue'
-});
-
-green.addEventListener('click',()=>{
-    dekano.style = 'color:green'
-});
-purple.addEventListener('click',()=>{
-    dekano.style = 'color:purple'
-});
-
 
 show.style = "display:none";
 
@@ -35,3 +21,18 @@ showIt.addEventListener('click',()=>{
         show.style = 'display:block'
     }
 })
+red.addEventListener('click',()=>{
+    dekano.style = 'color:red'
+});
+blue.addEventListener('click',()=>{
+    dekano.style = 'color:blue'
+});
+
+green.addEventListener('click',()=>{
+    dekano.style = 'color:green'
+    console.log('hello i am green')
+});
+purple.addEventListener('click',()=>{
+    dekano.style = 'color:purple'
+});
+
