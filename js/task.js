@@ -10,6 +10,15 @@ let green = document.querySelector('btn3');
 let purple = document.querySelector('btn4');
 
 //------------------color btn----------------------;
+red.addEventListener('click',()=>{
+    dekano.style = 'color:red'
+});
+blue.addEventListener('click',()=>{
+    dekano.style = 'color:blue'
+});
+red.addEventListener('click',()=>{
+    dekano.style = 'color:red'
+});
 
 
 show.style = "display:none";
