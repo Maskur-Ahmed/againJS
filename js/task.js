@@ -6,8 +6,8 @@ let show = document.querySelector('.show');
 // ------------------------------------------------;
 let red = document.querySelector('.btn1');
 let blue = document.querySelector('.btn2');
-let green = document.querySelector('btn3');
-let purple = document.querySelector('btn4');
+let green = document.querySelector('.btn3');
+let purple = document.querySelector('.btn4');
 
 //------------------color btn----------------------;
 
@@ -32,6 +32,7 @@ green.addEventListener('click',()=>{
     dekano.style = 'color:green'
     console.log('hello i am green')
 });
+
 purple.addEventListener('click',()=>{
     dekano.style = 'color:purple'
 });
