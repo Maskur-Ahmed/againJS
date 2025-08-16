@@ -21,6 +21,7 @@ showIt.addEventListener('click',()=>{
         show.style = 'display:block'
     }
 })
+//-----------color btn part------------
 red.addEventListener('click',()=>{
     dekano.style = 'color:red'
 });
@@ -36,3 +37,4 @@ purple.addEventListener('click',()=>{
     dekano.style = 'color:purple'
 });
 
+//-----------color btn close------------//
