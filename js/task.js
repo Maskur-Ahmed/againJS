@@ -30,7 +30,6 @@ blue.addEventListener('click',()=>{
 
 green.addEventListener('click',()=>{
     dekano.style = 'color:green'
-    console.log('hello i am green')
 });
 
 purple.addEventListener('click',()=>{
