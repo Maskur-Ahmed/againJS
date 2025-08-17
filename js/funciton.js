@@ -35,3 +35,10 @@ function dubbleIt (num){
 }
 
 dubbleIt(16);
+
+function difference (num1,num2){
+    let dif = num1 - num2;
+    console.log(dif)
+}
+
+difference(20,10);
