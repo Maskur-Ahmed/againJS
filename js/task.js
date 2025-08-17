@@ -22,6 +22,7 @@ showIt.addEventListener('click',()=>{
     }
 })
 //-----------color btn part------------
+
 red.addEventListener('click',()=>{
     dekano.style = 'color:red'
 });
@@ -38,3 +39,22 @@ purple.addEventListener('click',()=>{
 });
 
 //-----------color btn close------------//
+let incr = document.querySelector('#plus');
+let decr = document.getElementById('minus');
+let showInc = document.getElementById('showInc');
+let iValue =0;
+
+incr.addEventListener('click',()=>{
+    showInc.innerHTML=`${iValue++}`
+  
+})
+
+decr.addEventListener('click',()=>{
+   
+    if(iValue == 0){
+        alert("toke ekta nitei hobe")
+    } else{
+        showInc.innerHTML=iValue--;
+    }
+})
+

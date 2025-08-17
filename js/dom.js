@@ -43,4 +43,5 @@ btn4.addEventListener('click',()=>{
     div.style = 'background-color:yellow';
     div.innerText = 'mui holud rong';
 })
- 
+
+// -----------------increment/decrement-------------;
