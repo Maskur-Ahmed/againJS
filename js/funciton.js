@@ -47,3 +47,13 @@ difference(fatherAge, myAge);
 //*---------------------------how function work-------------------;
 //!when a function define with a name of difference,the function catch the value of the argument where its called.it will be a number or a variabe etc.
 //!then when we call it will take the value of any variable ,function,number etc.
+
+//--------------------------------function return-----------------------------------------;
+function tenTimes (number){
+    const result = number * 10;
+    return result;
+}
+
+let result = tenTimes(5);
+
+console.log(result);
