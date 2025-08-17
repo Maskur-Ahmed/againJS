@@ -42,3 +42,7 @@ function difference (num1,num2){
 }
 
 difference(20,10);
+
+let fatherAge = 50;
+let myAge = 21;
+difference(fatherAge,myAge);
