@@ -29,11 +29,9 @@ function macherTorkari (mach,sobji,mosla){
 // ---------------------------------------;
 //-------------------peramiter------------;
 //user jokhon kono value dibe,tokhon sei value er man borgo kore dekhono hobe:
-
-function square (a,b,c,d,e){
-    let count = a + b + c + d + e;
-    console.log(count);
-    return count;
+function dubbleIt (num){
+ let dubbled = num * 2;
+ console.log(dubbled);
 }
 
-square(2,3,5,7,9)
+dubbleIt(16);
