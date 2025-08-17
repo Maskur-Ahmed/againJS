@@ -26,6 +26,8 @@ function macherTorkari(mach, sobji, mosla) {
 // console.log(torkari)
 // ---------------------------------------;
 //-------------------peramiter------------;
+//* আমরা একটি ফাংশন ডিক্লিয়ার করার পর তার মদ্ধে পেরামিটার দিতে পারি। যেগুলো পরে আমরা যখন ফাংশন কল করবো তখন আলদা আলাদা মান দিয়ে আলাদা আলাদা কাজ করাতে পারি।
+//* আমরা চাইলে আরগুমেন্ট এ একটি ভেরিএবলো দিতে পারি।
 //user jokhon kono value dibe,tokhon sei value er man borgo kore dekhono hobe:
 function dubbleIt(num) {
   let dubbled = num * 2;
