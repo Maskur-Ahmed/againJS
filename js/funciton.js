@@ -13,7 +13,7 @@ function sum (a,b){
 
 }
 
-sum(10,40)
+// sum(10,40)
 
 function macherTorkari (mach,sobji,mosla){
     console.log('tel gorom kor');
@@ -23,6 +23,17 @@ function macherTorkari (mach,sobji,mosla){
     return `${mach} macher torkari ready`;
 }
 
-let torkari = macherTorkari("ilish","alu","holud");
+// let torkari = macherTorkari("ilish","alu","holud");
 
-console.log(torkari)
+// console.log(torkari)
+// ---------------------------------------;
+//-------------------peramiter------------;
+//user jokhon kono value dibe,tokhon sei value er man borgo kore dekhono hobe:
+
+function square (a,b,c,d,e){
+    let count = a + b + c + d + e;
+    console.log(count);
+    return count;
+}
+
+square(2,3,5,7,9)
