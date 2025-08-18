@@ -42,6 +42,9 @@ purple.addEventListener('click',()=>{
 let incr = document.querySelector('#plus');
 let decr = document.getElementById('minus');
 let showInc = document.getElementById('showInc');
-let iValue =0;
 
+let iValue = 1;
+incr.addEventListener('click',()=>{
+    showInc.innerHTML = iValue++
+})
 
