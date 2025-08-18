@@ -110,3 +110,5 @@ function strSize (str){
 }
 let maskur = 'Ahmed'
 strSize(maskur);
+
+//-----------------------------------------------------------------;
