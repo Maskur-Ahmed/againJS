@@ -68,3 +68,16 @@ console.log(bonusMaskur);
 
 //---------------------------------------------------------------------------------------------------;
 
+//--------------------------------------odd and even number difinder---------------------------------;
+function oddEven (number){
+  if(number % 2 ===0){
+    return "it's a even number";
+  }else if(number % 2 ===1){
+    return "it's a odd number";
+  }else{
+    return "it's not a number";
+  }
+}
+
+console.log(oddEven());
+//----------------------------------------------------------------------------------------------------;
