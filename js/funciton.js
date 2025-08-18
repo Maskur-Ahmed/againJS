@@ -79,5 +79,23 @@ function oddEven (number){
   }
 }
 
-console.log(oddEven());
+let ckNum = 51;
+console.log(oddEven(ckNum));
 //----------------------------------------------------------------------------------------------------;
+//---------------------------------------dubble tripple-----------------------------------------------;
+
+function dubbleTripple (num,dubble){
+  if(dubble){
+    let res = num * 2
+    console.log(res)
+  }else{
+   let tr=  num * 3
+   console.log(tr)
+  }
+  
+}
+
+dubbleTripple(5)
+
+//---------------------------------------------------------------;
+//--------------------------string legth--------------------------;
