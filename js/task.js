@@ -48,3 +48,10 @@ incr.addEventListener('click',()=>{
     showInc.innerHTML = iValue++
 })
 
+decr.addEventListener('click',()=>{
+    if(iValue < 1 ){
+        showInc.innerHTML = iValue--
+    }else{
+        console.log("hi")
+    }
+})
