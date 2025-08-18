@@ -99,3 +99,14 @@ dubbleTripple(5)
 
 //---------------------------------------------------------------;
 //--------------------------string legth--------------------------;
+
+function strSize (str){
+  let sSize = str.length
+  if(sSize % 2 === 0){
+    console.log("it's a even size")
+  }else{
+    console.log("it's a odd size");
+  }
+}
+
+strSize('maskur')
