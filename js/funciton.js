@@ -108,5 +108,5 @@ function strSize (str){
     console.log("it's a odd size");
   }
 }
-
-strSize('maskur')
+let maskur = 'Ahmed'
+strSize(maskur);
