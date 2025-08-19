@@ -56,6 +56,7 @@ decr.addEventListener('click',()=>{
     }
 })
 
+
 //--------------------------------------------------;
 
 let setData = document.querySelector('.localData');
