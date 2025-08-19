@@ -56,7 +56,8 @@ decr.addEventListener('click',()=>{
     }
 })
 
-//--------------------------------------------------
+//--------------------------------------------------;
+
 let setData = document.querySelector('.localData');
 
 setData.addEventListener('click',()=>{
