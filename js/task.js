@@ -55,3 +55,10 @@ decr.addEventListener('click',()=>{
         showInc.innerHTML = iValue--
     }
 })
+
+//--------------------------------------------------
+let setData = document.querySelector('.localData');
+
+setData.addEventListener('click',()=>{
+    localStorage.setItem('one',"hi this is first item")
+})

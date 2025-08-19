@@ -14,3 +14,13 @@ let outPut = myFunc(20);
 
 console.log('-------------------')
 console.log(outPut);
+
+function addIt (num,num2){
+    let result = num + num2;
+    return result;
+
+}
+
+let shoIt = addIt(30,40);
+console.log(shoIt);
+
