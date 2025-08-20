@@ -22,3 +22,14 @@ console.log(res);
 
 //------------------------------------task two complete------------------------------------;
 //========================================================================================
+
+function avg (one,two,three,four){
+    let sum = one + two + three + four;
+    let avr = sum / 4;
+    return avr
+}
+
+let ans = avg(4,6,7,8);
+console.log(ans);
+
+//------------------------------------task three complete-----------------------------------;
