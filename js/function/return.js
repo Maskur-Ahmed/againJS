@@ -24,3 +24,10 @@ function addIt (num,num2){
 let shoIt = addIt(30,40);
 console.log(shoIt);
 
+function addNum (num1,num2){
+    let result = num1 + num2;
+    return result
+}
+
+let adition = addNum(12,25);
+console.log(adition);
