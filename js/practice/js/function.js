@@ -52,6 +52,7 @@ console.log(checker);
 
 let x = 59;//global scop 
 
+
 function myFunc() {
     let age = 20; // Local scope
     console.log(age); // এখানে কাজ করবে
