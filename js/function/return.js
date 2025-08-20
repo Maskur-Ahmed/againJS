@@ -31,3 +31,16 @@ function addNum (num1,num2){
 
 let adition = addNum(12,25);
 console.log(adition);
+
+//=========================================================================
+
+function dubbleTriple (number,dubble){
+    if(dubble === true ){
+        let result = number * 2
+        return result;
+    }else{
+        return number * 3
+    }
+}
+let res = dubbleTriple(5,true);
+console.log(res);
