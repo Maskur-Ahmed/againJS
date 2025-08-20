@@ -54,10 +54,10 @@ let x = 59;//global scop
 
 
 function myFunc() {
+    var name = "maskur";
     let age = 20; // Local scope
     console.log(age); // এখানে কাজ করবে
 }
 
 myFunc();
-
 console.log(age); // ❌ এখানে এরর দিবে, কারণ এটা লোকাল
