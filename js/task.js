@@ -40,8 +40,8 @@ purple.addEventListener('click',()=>{
 
 //-----------color btn close------------//
 let incr = document.querySelector('#plus');
-let decr = document.getElementById('minus');
-let showInc = document.getElementById('showInc');
+let decr = document.querySelector('#minus');
+let showInc = document.querySelector('#showInc');
 
 let iValue = 1;
 incr.addEventListener('click',()=>{
@@ -49,11 +49,7 @@ incr.addEventListener('click',()=>{
 })
 
 decr.addEventListener('click',()=>{
-    if(iValue > 1 ){
-        console.log("hi")
-    }else{
-        showInc.innerHTML = iValue--
-    }
+  showInc.innerHTML = iValue--
 })
 
 
