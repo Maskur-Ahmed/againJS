@@ -33,3 +33,19 @@ let ans = avg(4,6,7,8);
 console.log(ans);
 
 //------------------------------------task three complete-----------------------------------;
+//==========================================================================================;
+
+function odd_even (number){
+    if(number % 2 === 0){
+        return "Even";
+
+    }else {
+        return "Odd";
+    }
+}
+
+let checker = odd_even(5);
+
+console.log(checker);
+
+//----------------------------------task four complete----------------------------------------;
